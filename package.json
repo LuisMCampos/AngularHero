@@ -5,6 +5,14 @@
     "start": "npm run lite",
     "lite": "lite-server"
   },
+    "engines": {
+    "node": "4.4.7",
+    "npm": "2.15.8"
+  },
+    "keywords": [
+    "example",
+    "heroku"
+  ],
   "license": "ISC",
   "dependencies": {
     "@angular/common": "2.0.0-rc.4",
@@ -29,12 +37,6 @@
   "devDependencies": {
     "concurrently": "^2.0.0",
     "lite-server": "^2.2.0"
-  },
-  "keywords": [
-    "example",
-    "heroku"
-  ],
-  "engines": {
-    "node": "4.4.7"
   }
+
 }
