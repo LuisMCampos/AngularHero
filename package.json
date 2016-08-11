@@ -35,6 +35,6 @@
     "heroku"
   ],
   "engines": {
-    "node": "1.0.0"
+    "node": "4.4.7"
   }
 }
