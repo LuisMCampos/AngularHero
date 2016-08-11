@@ -1,0 +1,11 @@
+node_modules/
+build/
+bin/
+obj/
+*.min.css
+*.min.js
+
+.npm
+.node_repl_history
+npm-debug.log*
+
