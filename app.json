@@ -1,0 +1,7 @@
+{
+  "name": "Angular Hero",
+  "description": "escreve a description que queres",
+  "repository": "https://github.com/LuisMCampos/AngularHero",
+  "keywords": ["node", "angular", "static"],
+  "image": "heroku/nodejs"
+}
